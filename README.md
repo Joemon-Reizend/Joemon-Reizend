@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Joemon-Reizend
+- 👀 I’m interested in Deep Learning
+- 🌱 I’m currently learning Python-Django
+- 💞️ I’m looking to collaborate on Django Projects
+- 📫 How to reach me joemon@reizendretail.in
